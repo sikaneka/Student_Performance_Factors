@@ -15,9 +15,9 @@ Some key columns in the dataset include:
 - `Hours_Studied`, `Attendancce`, `Parental_Involvement`
 - `Access_to_Resources`, `Extracurricular_Activities`, `Sleep_Hours`
 - `Previous_Scores`, `Motivation_Level`, `Internet_Access`, `Tutoring_Sessions`
-- `Family_Income`, 'Teacher_Quality', 'School_Type', 'Peer_Influence', 'Physical_Activity'
-- 'Learning_Disabilities', 'Parental_Education_Level', 'Distance_From_Home', 'Gender'
-- `Target` – Exam_Score
+- `Family_Income`, `Teacher_Quality`, `School_Type`, `Peer_Influence`, `Physical_Activity`
+- `Learning_Disabilities`, `Parental_Education_Level`, `Distance_From_Home`, `Gender`
+- `Target` – `Exam_Score`
 
 
 ## ✅ Objectives
